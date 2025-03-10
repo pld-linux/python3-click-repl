@@ -6,7 +6,7 @@ Summary:	REPL plugin for Click
 Summary(pl.UTF-8):	Wtyczka REPL dla Clicka
 Name:		python3-click-repl
 Version:	0.3.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/click-repl/
